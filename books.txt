@@ -1,4 +1,4 @@
-101|Clean Code|Robert C. Martin|0|seldio|Tech|https://covers.openlibrary.org/b/id/8444738-L.jpg|1772621029|3|2
+101|Clean Code|Robert C. Martin|0|seldio|Tech|https://covers.openlibrary.org/b/id/8444738-L.jpg|1772621029|3.33333|3
 102|The Hobbit|J.R.R. Tolkien|0|xio|Fantasy|https://covers.openlibrary.org/b/id/12662092-L.jpg|1772057909|5|1
-103|Dune|Frank Herbert|0|xio|Sci-Fi|https://covers.openlibrary.org/b/id/12836243-L.jpg|1772057909|0|0
-104|1984|George Orwell|0|zace|Dystopian|https://covers.openlibrary.org/b/id/10545934-L.jpg|1772058236|0|0
+103|Dune|Frank Herbert|0|xio|Sci-Fi|https://covers.openlibrary.org/b/id/12836243-L.jpg|1772057909|2|1
+104|1984|George Orwell|0|zace|Dystopian|https://covers.openlibrary.org/b/id/10545934-L.jpg|1772058236|5|1
